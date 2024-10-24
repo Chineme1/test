@@ -1,7 +1,1 @@
 Flask
-requests
-beautifulsoup4
-gunicorn
-webdriver
-selenium
-
